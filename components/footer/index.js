@@ -19,7 +19,7 @@ export const Footer = () => {
     >
       {isLarge ? <Full /> : <Condensed />}
       <Link
-        href={`${github.href}/portfolio-v2`}
+        href={`${github.href}/my-intro`}
         isExternal
         variant="noStyle"
         align="center"
